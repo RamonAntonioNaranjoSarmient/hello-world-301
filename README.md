@@ -2,6 +2,10 @@
 Aprender el manejo del github - branch - modificar algún archivo, commit, pull request, merge
 # Ramón Antonio Naranjo Sarmiento
 # ITC
+
+# José Alejandro Guerrero Flores
+# ITC
+
 #Irapuato
 **Tacos que pacho**
 *Preparar tamales*
